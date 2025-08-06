@@ -1,8 +1,4 @@
 class Solution:
     def isPowerOfTwo(self, n: int) -> bool:
-        for i in range(31):
-            if pow(2,i) == n:
-                return True
-        else:
-            return False
+        return n > 0 and (n & (n - 1)) == 0
         
