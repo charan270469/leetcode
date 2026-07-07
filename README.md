@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/charan270469/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/charan270469/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Geometry
 |  |
 | ------- |
