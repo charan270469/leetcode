@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/charan270469/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/charan270469/leetcode/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/charan270469/leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
