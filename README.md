@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/charan270469/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/charan270469/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/charan270469/leetcode/tree/master/1323-maximum-69-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/charan270469/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Geometry
