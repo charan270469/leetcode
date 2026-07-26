@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/charan270469/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/charan270469/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0500-keyboard-row](https://github.com/charan270469/leetcode/tree/master/0500-keyboard-row) |
+| [0628-maximum-product-of-three-numbers](https://github.com/charan270469/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/charan270469/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1260-shift-2d-grid](https://github.com/charan270469/leetcode/tree/master/1260-shift-2d-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/charan270469/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/charan270469/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/charan270469/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/charan270469/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/charan270469/leetcode/tree/master/1323-maximum-69-number) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/charan270469/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/charan270469/leetcode/tree/master/0217-contains-duplicate) |
+| [0628-maximum-product-of-three-numbers](https://github.com/charan270469/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/charan270469/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
