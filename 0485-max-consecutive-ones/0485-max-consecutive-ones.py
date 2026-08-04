@@ -7,6 +7,6 @@ class Solution:
                 count += 1
             else:
                 count = 0
-            
-            maxcount = max(maxcount,count)
+            if maxcount < count:
+                    maxcount = count
         return maxcount
