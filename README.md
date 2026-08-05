@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/charan270469/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/charan270469/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/charan270469/leetcode/tree/master/0500-keyboard-row) |
+| [0561-array-partition](https://github.com/charan270469/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/charan270469/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/charan270469/leetcode/tree/master/0724-find-pivot-index) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/charan270469/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/charan270469/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/charan270469/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/charan270469/leetcode/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/charan270469/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/charan270469/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/charan270469/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/charan270469/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/charan270469/leetcode/tree/master/0561-array-partition) |
 | [1323-maximum-69-number](https://github.com/charan270469/leetcode/tree/master/1323-maximum-69-number) |
 ## Matrix
 |  |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/charan270469/leetcode/tree/master/0561-array-partition) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/charan270469/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Design
 |  |
