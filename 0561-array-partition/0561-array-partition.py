@@ -3,7 +3,6 @@ class Solution:
         nums = sorted(nums)
         i = 0
         optsum = 0
-        while i < len(nums):
-            optsum += min(nums[i],nums[i+1])
-            i = i + 2
+        for i in range(0,len(nums),2):
+            optsum+=nums[i]
         return optsum
