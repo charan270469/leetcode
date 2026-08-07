@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/charan270469/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/charan270469/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/charan270469/leetcode/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/charan270469/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/charan270469/leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/charan270469/leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/charan270469/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/charan270469/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/charan270469/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/charan270469/leetcode/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/charan270469/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/charan270469/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/charan270469/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/charan270469/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/charan270469/leetcode/tree/master/0506-relative-ranks) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/charan270469/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
