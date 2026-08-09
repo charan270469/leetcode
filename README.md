@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/charan270469/leetcode/tree/master/0038-count-and-say) |
 | [0344-reverse-string](https://github.com/charan270469/leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/charan270469/leetcode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/charan270469/leetcode/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/charan270469/leetcode/tree/master/0500-keyboard-row) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/charan270469/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sorting
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/charan270469/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/charan270469/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/charan270469/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/charan270469/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/charan270469/leetcode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/charan270469/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/charan270469/leetcode/tree/master/0561-array-partition) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/charan270469/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/charan270469/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/charan270469/leetcode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/charan270469/leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/charan270469/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/charan270469/leetcode/tree/master/0500-keyboard-row) |
 | [2965-find-missing-and-repeated-values](https://github.com/charan270469/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -148,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/charan270469/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/charan270469/leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
