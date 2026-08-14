@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/charan270469/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/charan270469/leetcode/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/charan270469/leetcode/tree/master/0500-keyboard-row) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/charan270469/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/charan270469/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sorting
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/charan270469/leetcode/tree/master/0575-distribute-candies) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/charan270469/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/charan270469/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/charan270469/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/charan270469/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3731-find-missing-elements](https://github.com/charan270469/leetcode/tree/master/3731-find-missing-elements) |
 ## Linked List
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/charan270469/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/charan270469/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/charan270469/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Counting Sort
 |  |
 | ------- |
