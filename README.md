@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/charan270469/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/charan270469/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/charan270469/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/charan270469/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/charan270469/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -167,5 +168,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/charan270469/leetcode/tree/master/0078-subsets) |
 | [0389-find-the-difference](https://github.com/charan270469/leetcode/tree/master/0389-find-the-difference) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/charan270469/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
