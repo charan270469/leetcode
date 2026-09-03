@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/charan270469/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/charan270469/leetcode/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/charan270469/leetcode/tree/master/0832-flipping-an-image) |
+| [0994-rotting-oranges](https://github.com/charan270469/leetcode/tree/master/0994-rotting-oranges) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/charan270469/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1260-shift-2d-grid](https://github.com/charan270469/leetcode/tree/master/1260-shift-2d-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/charan270469/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/charan270469/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0832-flipping-an-image](https://github.com/charan270469/leetcode/tree/master/0832-flipping-an-image) |
+| [0994-rotting-oranges](https://github.com/charan270469/leetcode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/charan270469/leetcode/tree/master/1260-shift-2d-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/charan270469/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Sliding Window
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/charan270469/leetcode/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/charan270469/leetcode/tree/master/0994-rotting-oranges) |
 ## Graph Theory
 |  |
 | ------- |
