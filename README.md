@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/charan270469/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/charan270469/leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/charan270469/leetcode/tree/master/0506-relative-ranks) |
+| [0542-01-matrix](https://github.com/charan270469/leetcode/tree/master/0542-01-matrix) |
 | [0561-array-partition](https://github.com/charan270469/leetcode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/charan270469/leetcode/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/charan270469/leetcode/tree/master/0605-can-place-flowers) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/charan270469/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0542-01-matrix](https://github.com/charan270469/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/charan270469/leetcode/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/charan270469/leetcode/tree/master/0832-flipping-an-image) |
 | [0994-rotting-oranges](https://github.com/charan270469/leetcode/tree/master/0994-rotting-oranges) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/charan270469/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/charan270469/leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/charan270469/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/charan270469/leetcode/tree/master/0994-rotting-oranges) |
@@ -231,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/charan270469/leetcode/tree/master/0547-number-of-provinces) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/charan270469/leetcode/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
