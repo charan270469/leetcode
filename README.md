@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0263-ugly-number](https://github.com/charan270469/leetcode/tree/master/0263-ugly-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/charan270469/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/charan270469/leetcode/tree/master/0836-rectangle-overlap) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/charan270469/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/charan270469/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/charan270469/leetcode/tree/master/1323-maximum-69-number) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/charan270469/leetcode/tree/master/0836-rectangle-overlap) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/charan270469/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Simulation
 |  |
