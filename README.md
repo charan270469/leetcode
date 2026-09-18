@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/charan270469/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/charan270469/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/charan270469/leetcode/tree/master/0088-merge-sorted-array) |
+| [0200-number-of-islands](https://github.com/charan270469/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/charan270469/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/charan270469/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/charan270469/leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/charan270469/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/charan270469/leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/charan270469/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/charan270469/leetcode/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/charan270469/leetcode/tree/master/0832-flipping-an-image) |
@@ -228,12 +230,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/charan270469/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/charan270469/leetcode/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/charan270469/leetcode/tree/master/1020-number-of-enclaves) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/charan270469/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/charan270469/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/charan270469/leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/charan270469/leetcode/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/charan270469/leetcode/tree/master/1020-number-of-enclaves) |
@@ -242,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/charan270469/leetcode/tree/master/0127-word-ladder) |
+| [0200-number-of-islands](https://github.com/charan270469/leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/charan270469/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/charan270469/leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/charan270469/leetcode/tree/master/0733-flood-fill) |
