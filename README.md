@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/charan270469/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/charan270469/leetcode/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/charan270469/leetcode/tree/master/0500-keyboard-row) |
+| [0520-detect-capital](https://github.com/charan270469/leetcode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/charan270469/leetcode/tree/master/0541-reverse-string-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/charan270469/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/charan270469/leetcode/tree/master/3498-reverse-degree-of-a-string) |
