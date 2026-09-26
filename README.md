@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/charan270469/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/charan270469/leetcode/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/charan270469/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/charan270469/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0832-flipping-an-image](https://github.com/charan270469/leetcode/tree/master/0832-flipping-an-image) |
 | [0994-rotting-oranges](https://github.com/charan270469/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/charan270469/leetcode/tree/master/1020-number-of-enclaves) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/charan270469/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/charan270469/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/charan270469/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/charan270469/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/charan270469/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/charan270469/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/charan270469/leetcode/tree/master/3536-maximum-product-of-two-digits) |
