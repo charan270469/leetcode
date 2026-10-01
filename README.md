@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/charan270469/leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/charan270469/leetcode/tree/master/0038-count-and-say) |
 | [0127-word-ladder](https://github.com/charan270469/leetcode/tree/master/0127-word-ladder) |
 | [0344-reverse-string](https://github.com/charan270469/leetcode/tree/master/0344-reverse-string) |
@@ -305,4 +306,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/charan270469/leetcode/tree/master/0785-is-graph-bipartite) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/charan270469/leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/charan270469/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
