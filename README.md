@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/charan270469/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/charan270469/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/charan270469/leetcode/tree/master/0078-subsets) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/charan270469/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/charan270469/leetcode/tree/master/0088-merge-sorted-array) |
 | [0200-number-of-islands](https://github.com/charan270469/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/charan270469/leetcode/tree/master/0217-contains-duplicate) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/charan270469/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/charan270469/leetcode/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/charan270469/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/charan270469/leetcode/tree/master/0344-reverse-string) |
