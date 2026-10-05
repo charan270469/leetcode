@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/charan270469/leetcode/tree/master/0043-multiply-strings) |
 | [0263-ugly-number](https://github.com/charan270469/leetcode/tree/master/0263-ugly-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/charan270469/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/charan270469/leetcode/tree/master/0836-rectangle-overlap) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/charan270469/leetcode/tree/master/0043-multiply-strings) |
 | [0832-flipping-an-image](https://github.com/charan270469/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/charan270469/leetcode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/charan270469/leetcode/tree/master/1260-shift-2d-grid) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/charan270469/leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/charan270469/leetcode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/charan270469/leetcode/tree/master/0043-multiply-strings) |
 | [0127-word-ladder](https://github.com/charan270469/leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/charan270469/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/charan270469/leetcode/tree/master/0344-reverse-string) |
