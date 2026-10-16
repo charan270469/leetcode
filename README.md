@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/charan270469/leetcode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/charan270469/leetcode/tree/master/0541-reverse-string-ii) |
 | [0771-jewels-and-stones](https://github.com/charan270469/leetcode/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/charan270469/leetcode/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/charan270469/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/charan270469/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/charan270469/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -348,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/charan270469/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/charan270469/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
