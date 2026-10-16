@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/charan270469/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/charan270469/leetcode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/charan270469/leetcode/tree/master/0994-rotting-oranges) |
+| [1002-find-common-characters](https://github.com/charan270469/leetcode/tree/master/1002-find-common-characters) |
 | [1020-number-of-enclaves](https://github.com/charan270469/leetcode/tree/master/1020-number-of-enclaves) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/charan270469/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1260-shift-2d-grid](https://github.com/charan270469/leetcode/tree/master/1260-shift-2d-grid) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/charan270469/leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/charan270469/leetcode/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/charan270469/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1002-find-common-characters](https://github.com/charan270469/leetcode/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/charan270469/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/charan270469/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/charan270469/leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/charan270469/leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/charan270469/leetcode/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/charan270469/leetcode/tree/master/0771-jewels-and-stones) |
+| [1002-find-common-characters](https://github.com/charan270469/leetcode/tree/master/1002-find-common-characters) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/charan270469/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/charan270469/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/charan270469/leetcode/tree/master/2965-find-missing-and-repeated-values) |
