@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/charan270469/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/charan270469/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/charan270469/leetcode/tree/master/0836-rectangle-overlap) |
+| [1103-distribute-candies-to-people](https://github.com/charan270469/leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/charan270469/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/charan270469/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/charan270469/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/charan270469/leetcode/tree/master/0043-multiply-strings) |
 | [0832-flipping-an-image](https://github.com/charan270469/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/charan270469/leetcode/tree/master/0867-transpose-matrix) |
+| [1103-distribute-candies-to-people](https://github.com/charan270469/leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1260-shift-2d-grid](https://github.com/charan270469/leetcode/tree/master/1260-shift-2d-grid) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/charan270469/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/charan270469/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
