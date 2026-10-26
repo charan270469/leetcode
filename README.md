@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/charan270469/leetcode/tree/master/0994-rotting-oranges) |
 | [1002-find-common-characters](https://github.com/charan270469/leetcode/tree/master/1002-find-common-characters) |
 | [1020-number-of-enclaves](https://github.com/charan270469/leetcode/tree/master/1020-number-of-enclaves) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/charan270469/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/charan270469/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1260-shift-2d-grid](https://github.com/charan270469/leetcode/tree/master/1260-shift-2d-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/charan270469/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/charan270469/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1002-find-common-characters](https://github.com/charan270469/leetcode/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/charan270469/leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/charan270469/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/charan270469/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/charan270469/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/charan270469/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/charan270469/leetcode/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/charan270469/leetcode/tree/master/0819-most-common-word) |
 | [1002-find-common-characters](https://github.com/charan270469/leetcode/tree/master/1002-find-common-characters) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/charan270469/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/charan270469/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/charan270469/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/charan270469/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/charan270469/leetcode/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/charan270469/leetcode/tree/master/0561-array-partition) |
 | [0819-most-common-word](https://github.com/charan270469/leetcode/tree/master/0819-most-common-word) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/charan270469/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/charan270469/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Design
 |  |
