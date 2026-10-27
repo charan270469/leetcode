@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/charan270469/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/charan270469/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1260-shift-2d-grid](https://github.com/charan270469/leetcode/tree/master/1260-shift-2d-grid) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/charan270469/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/charan270469/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/charan270469/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/charan270469/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
