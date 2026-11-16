@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1103-distribute-candies-to-people](https://github.com/charan270469/leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1260-shift-2d-grid](https://github.com/charan270469/leetcode/tree/master/1260-shift-2d-grid) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/charan270469/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/charan270469/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/charan270469/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/charan270469/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/charan270469/leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/charan270469/leetcode/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/charan270469/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/charan270469/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/charan270469/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/charan270469/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/charan270469/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/charan270469/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
