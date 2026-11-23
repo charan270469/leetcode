@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/charan270469/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/charan270469/leetcode/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/charan270469/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/charan270469/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/charan270469/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0819-most-common-word](https://github.com/charan270469/leetcode/tree/master/0819-most-common-word) |
 | [0832-flipping-an-image](https://github.com/charan270469/leetcode/tree/master/0832-flipping-an-image) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/charan270469/leetcode/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/charan270469/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/charan270469/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Tree
 |  |
