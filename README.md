@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/charan270469/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/charan270469/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/charan270469/leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/charan270469/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/charan270469/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/charan270469/leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/charan270469/leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/charan270469/leetcode/tree/master/0043-multiply-strings) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/charan270469/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0198-house-robber](https://github.com/charan270469/leetcode/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/charan270469/leetcode/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/charan270469/leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -429,4 +432,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/charan270469/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/charan270469/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
